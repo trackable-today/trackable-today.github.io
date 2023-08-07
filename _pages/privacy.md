@@ -5,8 +5,19 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2023
+August 7 2023
 
-# Privacy Policy
+{% for section in site.data.privacy %}
+{% if section.hidden %}
+{% elsif section.header == site.data.privacy[0].header %}
 
-TODO
+# {{section.header}}
+{{section.text}}
+
+{% else %}
+
+### {{section.header}}
+{{section.text}}
+
+{% endif %}
+{% endfor %}

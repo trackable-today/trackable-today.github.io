@@ -5,8 +5,21 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2023
+August 7 2023
 
-# Terms Of Use
+{% assign sections = site.data.terms %}
 
-TODO
+{% for section in sections %}
+{% if section.hidden %}
+{% elsif section.header == sections[0].header %}
+
+# {{section.header}}
+{{section.text}}
+
+{% else %}
+
+### {{section.header}}
+{{section.text}}
+
+{% endif %}
+{% endfor %}
