@@ -18,7 +18,7 @@ enable_smart_app_banner                   : true
 # Feature List
 features                                  :
 
-  - title                                 : Trackables
+  - title                                 : Tracking
     description                           : Collect data in one place. Monitoring weight? Tracking electricity meter? Periodically handling taxes? Anything will do.
     fontawesome_icon_name                 : plus
     
