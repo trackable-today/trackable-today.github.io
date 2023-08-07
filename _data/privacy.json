@@ -1,0 +1,36 @@
+[
+    {
+        "header": "Privacy Policy",
+        "text": "This privacy policy governs the manner in which Trackables collects, uses, maintains, and discloses information collected from users (referred to as \"User\") of the Trackables mobile application (referred to as the \"App\")."
+    },
+    {
+        "header": "Information Collection and Use",
+        "text": "The App does not collect any personal information from its Users. It does not require an internet connection and does not incorporate any third-party code or services that may collect personal data."
+    },
+    {
+        "header": "Data Storage",
+        "text": "Any data that the User adds to the App is stored locally on their device and is not transmitted or stored on any external servers. When the User uninstalls the App, all data associated with the App is removed from the device and cannot be recovered."
+    },
+    {
+        "header": "Non-Personal Information",
+        "hidden": true,
+        "text": "The App may collect non-personal information for the purpose of improving the User experience. This information may include technical details about the User's device, such as the device model, operating system version, and usage statistics. This data is collected in an anonymized and aggregated form and is used solely for analytical purposes."
+    },
+    {
+        "header": "Third-Party Services",
+        "text": "The App does not utilize any third-party services or frameworks that would result in the collection or sharing of personal information."
+    },
+    {
+        "header": "Children's Privacy",
+        "hidden": true,
+        "text": "The App does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that the App has inadvertently collected personal information from a child, please contact us immediately, and we will make all reasonable efforts to promptly review and remove it."
+    },
+    {
+        "header": "Changes to this Privacy Policy",
+        "text": "We reserve the right to update this privacy policy at any time. Users are encouraged to review this page periodically for any changes. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of any modifications."
+    },
+    {
+        "header": "Inquiry",
+        "text": "If you have any questions or concerns regarding this privacy policy or the practices of the App, please feel free to contact us."
+    }
+]
