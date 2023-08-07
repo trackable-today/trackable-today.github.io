@@ -106,6 +106,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - trackable-today.xcodeproj
 
 collections:
   pages:

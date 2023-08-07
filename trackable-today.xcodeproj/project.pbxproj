@@ -1,0 +1,100 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		1E5E41D72A816737004E3CC2 /* _sass */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _sass; sourceTree = "<group>"; };
+		1E5E41D82A816737004E3CC2 /* Gemfile.lock */ = {isa = PBXFileReference; lastKnownFileType = text; path = Gemfile.lock; sourceTree = "<group>"; };
+		1E5E41D92A816737004E3CC2 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		1E5E41DA2A816737004E3CC2 /* Gemfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Gemfile; sourceTree = "<group>"; };
+		1E5E41DB2A816737004E3CC2 /* _data */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _data; sourceTree = "<group>"; };
+		1E5E41DC2A816737004E3CC2 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		1E5E41DD2A816737004E3CC2 /* main.scss */ = {isa = PBXFileReference; lastKnownFileType = text; path = main.scss; sourceTree = "<group>"; };
+		1E5E41DE2A816737004E3CC2 /* _pages */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _pages; sourceTree = "<group>"; };
+		1E5E41DF2A816737004E3CC2 /* CNAME */ = {isa = PBXFileReference; lastKnownFileType = text; path = CNAME; sourceTree = "<group>"; };
+		1E5E41E02A816737004E3CC2 /* _layouts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _layouts; sourceTree = "<group>"; };
+		1E5E41E12A816737004E3CC2 /* _includes */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _includes; sourceTree = "<group>"; };
+		1E5E41E22A816737004E3CC2 /* _config.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = _config.yml; sourceTree = "<group>"; };
+		1E5E41E32A816737004E3CC2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		1E5E41E42A816737004E3CC2 /* assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = assets; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		1E5E41D02A81668F004E3CC2 = {
+			isa = PBXGroup;
+			children = (
+				1E5E41E22A816737004E3CC2 /* _config.yml */,
+				1E5E41DB2A816737004E3CC2 /* _data */,
+				1E5E41E12A816737004E3CC2 /* _includes */,
+				1E5E41E02A816737004E3CC2 /* _layouts */,
+				1E5E41DE2A816737004E3CC2 /* _pages */,
+				1E5E41D72A816737004E3CC2 /* _sass */,
+				1E5E41E42A816737004E3CC2 /* assets */,
+				1E5E41DF2A816737004E3CC2 /* CNAME */,
+				1E5E41DA2A816737004E3CC2 /* Gemfile */,
+				1E5E41D82A816737004E3CC2 /* Gemfile.lock */,
+				1E5E41DC2A816737004E3CC2 /* index.html */,
+				1E5E41D92A816737004E3CC2 /* LICENSE */,
+				1E5E41DD2A816737004E3CC2 /* main.scss */,
+				1E5E41E32A816737004E3CC2 /* README.md */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		1E5E41D12A81668F004E3CC2 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1430;
+			};
+			buildConfigurationList = 1E5E41D42A81668F004E3CC2 /* Build configuration list for PBXProject "trackable-today" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1E5E41D02A81668F004E3CC2;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		1E5E41D52A81668F004E3CC2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		1E5E41D62A81668F004E3CC2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1E5E41D42A81668F004E3CC2 /* Build configuration list for PBXProject "trackable-today" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1E5E41D52A81668F004E3CC2 /* Debug */,
+				1E5E41D62A81668F004E3CC2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1E5E41D12A81668F004E3CC2 /* Project object */;
+}
