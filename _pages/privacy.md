@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 7 2023
+September 8 2023
 
 {% assign agreement = site.data.privacy %}
 {% include agreement.md %}
