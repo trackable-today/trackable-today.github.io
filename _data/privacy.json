@@ -13,7 +13,6 @@
     },
     {
         "header": "Non-Personal Information",
-        "hidden": true,
         "text": "The App may collect non-personal information for the purpose of improving the User experience. This information may include technical details about the User's device, such as the device model, operating system version, and usage statistics. This data is collected in an anonymized and aggregated form and is used solely for analytical purposes."
     },
     {
@@ -22,7 +21,6 @@
     },
     {
         "header": "Children's Privacy",
-        "hidden": true,
         "text": "The App does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that the App has inadvertently collected personal information from a child, please contact us immediately, and we will make all reasonable efforts to promptly review and remove it."
     },
     {
