@@ -10,7 +10,7 @@ include_in_header: true
 ### `Initial Release`
 # **Version 1.0.0**
 
-Introducing Trackables: Your Personal Tracking Companion
+Introducing Trackables: your personal tracking companion.
 
 Stay on top of your goals, tasks, and periodic commitments effortlessly with Trackables. Whether you're monitoring your body weight, tracking expenses on a trip, managing periodic tax payments, or keeping up with important dates like birthdays, this app is your ultimate organizational tool.
 
