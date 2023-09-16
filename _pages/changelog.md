@@ -9,7 +9,7 @@ include_in_header: true
 
 ### `Initial Release`
 ###### `September 11, 2023`
-# **Version 1.0.0** 
+# **Version 1.0.0 (129)** 
 
 Introducing Trackables: your personal tracking companion.
 
