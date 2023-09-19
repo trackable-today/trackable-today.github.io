@@ -5,11 +5,18 @@ include_in_header: true
 ---
 
 # Changelog
+
 <br>
 
-### `Initial Release`
+## **Version 1.0.1 (133)**
+###### `September 17, 2023`
+
+- Fixed line charts
+
+<br>
+
+## **Version 1.0.0 (129)**
 ###### `September 11, 2023`
-# **Version 1.0.0 (129)** 
 
 Introducing Trackables: your personal tracking companion.
 
