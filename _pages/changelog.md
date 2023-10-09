@@ -8,6 +8,14 @@ include_in_header: true
 
 <br>
 
+## **Version 1.0.2 (142)**
+###### `October 9, 2023`
+
+- Added demo examples pre-generated on first launch
+- Improved post-onboarding user experience
+
+<br>
+
 ## **Version 1.0.1 (133)**
 ###### `September 17, 2023`
 
