@@ -8,6 +8,13 @@ include_in_header: true
 
 <br>
 
+## **Version 1.0.3 (144)**
+###### `October 16, 2023`
+
+- Updated AppStore screenshots
+
+<br>
+
 ## **Version 1.0.2 (142)**
 ###### `October 9, 2023`
 
